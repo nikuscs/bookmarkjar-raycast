@@ -1,6 +1,10 @@
 # Bookmarkjar Changelog
 
+<<<<<<< HEAD
 ## [Initial Version] - {PR_MERGE_DATE}
+=======
+## [Initial Version] - 2025-12-24
+>>>>>>> contributions/merge-1766589650675
 
 - Add Bookmark command - paste one or more URLs to save
 - Add Bookmark from Clipboard command - instantly save clipboard URL
